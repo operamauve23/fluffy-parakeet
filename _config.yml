@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: Star of the Sea
-description: Hello there!
+description: 你好哇！
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: starofthesea
@@ -73,7 +73,7 @@ footer-text: Copyright (c) 2020 来自中世界
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: starofthesea-1 #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
